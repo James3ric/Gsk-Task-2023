@@ -37,9 +37,9 @@ The project was completed following these key steps:
 
 
 ## Tools and Libraries
-- **R**: Data cleaning, visualization, and modeling.
-  - Libraries used: `dplyr`, `ggplot2`, `caret`, `randomForest`.
-- **Excel**: Initial data exploration and basic visualization.
+- **Python**: Data cleaning, visualization, and modeling.
+- **Libraries**: pandas, numpy, seaborn, matplotlib.pyplot,sklearn, SMOTE, decisiontree, classification_report,confusion_matrix, cross_val_score, StratifiedKFold.
+- **Excel**: Initial data exploration.
 
 ## Key Insights
 - Miraculon-B demonstrates significant effectiveness in shrinking solid tumors for certain patient subgroups.
